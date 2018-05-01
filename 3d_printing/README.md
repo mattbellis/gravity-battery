@@ -20,6 +20,8 @@ File 9:18-tooth gear, maker bot file
 
 File 10:6-tooth gear 
 
+File 11: (Plate)A smaller version of Plate2, works as a good support between just two T-slots to connect
+
 *Note: all gears are 25mm tall, and have been scaled down by 50 percent when placed into their maker bot files. Leave the scaling at this 50 percent. Gears 18-30 have smaller 6-tooth gears on top of them, also 25mm tall. 
 
 
